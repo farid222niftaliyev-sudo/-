@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Слово Фарида</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #0078ff;
+        }
+        .section {
+            margin-top: 25px;
+        }
+        .section h2 {
+            color: #333;
+            border-bottom: 2px solid #0078ff;
+            padding-bottom: 5px;
+        }
+        .section p {
+            margin-top: 10px;
+            line-height: 1.6;
+        }
+        .example {
+            font-style: italic;
+            color: #555;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Слово Фарида</h1>
+
+        <div class="section">
+            <h2>Значение</h2>
+            <p>«Слово Фарида» — обещать и выполнять любой ценой.</p>
+        </div>
+
+        <div class="section">
+            <h2>Примеры использования</h2>
+            <p class="example">Он дал обещание помочь другу и действительно сделал всё, что сказал — это настоящая «Слово Фарида».</p>
+            <p class="example">Даже перед лицом трудностей она сдержала слово — чистая «Слово Фарида».</p>
+        </div>
+
+        <div class="section">
+            <h2>Роль в литературе</h2>
+            <p>Фразеологизм «Слово Фарида» в литературе подчеркивает верность обещаниям, целеустремлённость и стойкость героя перед трудностями. Используется для характеристики людей с высокой ответственностью и честностью.</p>
+        </div>
+    </div>
+</body>
+</html>
